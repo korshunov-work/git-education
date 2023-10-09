@@ -1,3 +1,4 @@
+![Логотип Git](git_logo.png)
 # GIT. Инструкция.
 ## Установка GIT
 ### Windows
